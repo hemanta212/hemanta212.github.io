@@ -72,10 +72,9 @@ img {
 }
 
 #content {
-    width: 98%;
+    width: 95%;
     margin: auto;
 }
-
 @media (min-width: 768px){
     #content {
         width: 80%;
@@ -90,3 +89,12 @@ img {
     font-weight: 300;
 }
 
+pre.prettyprint {
+    white-space: pre;
+    border-radius: 0;
+}
+
+.output_html.rendered_html.output_subarea.output_execute_result {
+    overflow-x: auto;
+    padding: 0.4em;
+}
