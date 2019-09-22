@@ -1,0 +1,10 @@
+{
+  "blog_posts_dir": "blog/",
+  "working_dir": null,
+  "default": true,
+  "templates_dir": "~/hemanta212.github.io/_blogger_templates/",
+  "disqus_username": "hemanta212",
+  "blog_images_dir": "images/blog/",
+  "blog_dir": "~/hemanta212.github.io/",
+  "google_analytics_id": "UA-139924028-1"
+}
