@@ -1,10 +1,10 @@
 {
-  "blog_posts_dir": "blog/",
-  "working_dir": null,
-  "default": true,
+  "filter_post_without_title": "true",
   "templates_dir": "~/hemanta212.github.io/_blogger_templates/",
-  "disqus_username": "hemanta212",
-  "blog_images_dir": "images/blog/",
+  "google_analytics_id": "UA-139924028-1",
+  "working_dir": null,
   "blog_dir": "~/hemanta212.github.io/",
-  "google_analytics_id": "UA-139924028-1"
+  "disqus_username": "hemanta212",
+  "blog_posts_dir": "blog/",
+  "blog_images_dir": "images/blog/"
 }
